@@ -1,0 +1,7 @@
+How did viewing a diff between two versions of a file help you see that was introduced?
+
+	If the old file works and the new file doesn't then we are right in supposing that the causes of this malfunction are precisely the differences introduced in the old file, because we can be sure that, in the event of rebuilding the old file from the new one by removing these differences, the file would work again
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	If I have access to the entire history of a file then I am able to alternate between versions and compare two or more of them in order to find bugs or detect solutions that better worked for me in older versions.
